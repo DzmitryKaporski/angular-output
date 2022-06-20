@@ -1,0 +1,16 @@
+<div class="wrap">
+  <div>
+    <p>
+      Interval - Hours: {{ timerIntervalHours }} Sec:
+      {{ timerIntervalSec }}
+    </p>
+    <div>
+      <b>{{ currentTimerHour }} : {{ currentTimerSec }}</b>
+    </div>
+  </div>
+  <br />
+  <div>
+    <button type="button" (click)="timerStart()">Start</button>
+    <button type="button" (click)="timerStop()">Stop</button>
+  </div>
+</div>
