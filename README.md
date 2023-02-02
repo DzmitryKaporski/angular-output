@@ -1,8 +1,6 @@
-# Task: Pass state from with Output.
-
 # Deploy: [angular-output](https://angular-output.surge.sh/)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.4.
 
 ## Development server
 
